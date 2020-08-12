@@ -10,3 +10,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [LinkedIn](https://linkedin.com/in/rottiakash)
 - ⚡ Fun fact: ... Coding is one of my hobbies😉
+
+[![Akash's github stats](https://github-readme-stats.vercel.app/api?username=rottiakash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
