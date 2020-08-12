@@ -14,3 +14,6 @@
 [![Akash's github stats](https://github-readme-stats.vercel.app/api?username=rottiakash&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Stats](https://github.com/rottiakash/rottiakash/raw/master/Screen%20Shot%202020-08-12%20at%2009.12.09.png)
+
+### Lets end it with a Meme
+![Meme](https://i.pinimg.com/736x/64/e8/48/64e84853aaa2a974fc88b1a4c614a7f2.jpg)
